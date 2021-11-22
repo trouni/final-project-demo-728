@@ -1,2 +1,2 @@
 def demo_method():
-    pass
+    return None
